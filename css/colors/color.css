@@ -1,0 +1,103 @@
+
+.hero-center-wrap p,
+.nav__list-item.active-nav a,
+.nav__list-item.active-nav a:hover,
+.nav__list-item a:hover,
+.nav__list .sub-links li.active-nav a,
+.footer a,
+.footer a:hover,
+.content-subtext,
+.tipper .tipper-content em,
+.velo-slide__text,
+.video-parallax-down-text p,
+.video-parallax-down-link:hover,
+.portfolio-box p,
+.parallax-project-wrapper p,
+.sec-titile .subtitle,
+.team-info p,
+.error,
+.subscribe button:hover,
+.blog-info p span,
+.blog-pagination li p:hover,
+.arrow-icons:hover,
+.author-wrap p a:hover,
+.list-style.circle li:before,
+.list-style.circle-o li:before,
+.list-style li i,
+.list-style a.btn-link:hover{
+	color: #6dc234;
+}
+#royal_preloader.royal_preloader_progress .royal_preloader_meter,
+.social-fixed-left a:before,
+.social-fixed-left a:after,
+.social-fixed-left-no-change a:before,
+.social-fixed-left-no-change a:after,
+#filter li a:before,
+.sec-titile .subtitle:before,
+.team-soc li a:hover,
+.contact-info a:hover,
+#ajax-form button:hover,
+#cd-zoom-in, #cd-zoom-out,
+.con-det p:before,
+.blog-info a:hover,
+mark,
+.btn-primary:hover{
+	background-color: #6dc234;
+}
+#ajax-form textarea:focus,
+#ajax-form input:focus,
+#ajax-form textarea:active,
+#ajax-form input:active,
+.subscribe input:active,
+.subscribe input:focus {	
+	border-bottom:1px solid #6dc234;
+}
+.pag-3d-line:hover,
+.pag-3d-work-wrap a.mPS2id-highlight .pag-3d-line,
+.form-control:active,
+.form-control:focus{
+	border-color: #6dc234;
+}
+figure.vimeo a:before, figure.youtube a:before {
+	border-left: 10px solid #6dc234;
+}
+figure.vimeo:hover a:after, figure.youtube:hover a:after {
+	background:#6dc234;
+}
+.blockquote{
+	border-left: 0.4rem solid #6dc234;
+}
+.blockquote-reverse{
+	border-right: 0.4rem solid #6dc234;
+} 
+::selection {
+	background-color: #6dc234;
+}
+::-moz-selection {
+	background-color: #6dc234;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
